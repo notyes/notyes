@@ -1,6 +1,6 @@
 ### Hi bro 👋
 
-💬 Enjoy your time kub bye...
+💬 Enjoy your time kub ...
 
 <!--
 **notyes/notyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
